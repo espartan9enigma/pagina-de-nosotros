@@ -1,0 +1,74 @@
+.contenedor1 {
+	/*rgb(46, 64, 83)
+rgb(0, 0, 0)
+rgb(41, 128, 185)
+rgb(72, 201, 176)
+rgb(118, 215, 196)
+rgb(84, 153, 199)*/
+	background: linear-gradient(to right, #3b657a, #123142);
+	display: flex;
+}
+
+.logo2 {
+	width: 70%;
+}
+
+.lema {
+	align-self: center;
+}
+.busnis {
+	color: white;
+	font-family: sixtyfour;
+	font-size: 70px;
+}
+.lema-content {
+	/* max-width: 60%; */
+	font-family: josefin sans;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+.presentacion-general {
+	text-align: center;
+	width: 100%;
+
+}
+.presentacion-general h3 {
+	text-align: left;
+	font-size: 31px;
+	width: 60%;
+	font-family: Roboto condensed;
+	color: #187498;
+	margin-block: 3%;
+}
+/*
+Paleta de colores 2
+rgb(17, 120, 100) verde oscuro
+rgb(21, 67, 96) azul oscuro
+rgb(33, 97, 140) azul marino
+3 tonos de blanco del mas brillante a mas oscuro
+rgb(242, 243, 244)
+rgb(234, 237, 237)
+rgb(213, 216, 220)
+
+*/
+
+.mapaChimbote { /* BACKGROUND */
+	background: linear-gradient(to top, #bd0a41, #772a53);
+	padding: 20px;
+}
+.referenciaChimbote {
+	width: 100%;
+	display: flex;
+
+}
+.referenciaChimbote iframe {
+	margin: 1%;
+	width: 100%;
+}
+
+.mapaNvoChimbote { /* BACKGROUND */
+	background: linear-gradient(to bottom, #619885 , #e1d2a9);
+	padding: 20px;
+}
